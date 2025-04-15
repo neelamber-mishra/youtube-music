@@ -5,7 +5,7 @@
   padding: var(--ytmusic-menu-item_-_padding);
   cursor: pointer;
 }
-
+/* started reading the code */
 .ytmd-menu-item > .yt-simple-endpoint:hover {
   background-color: var(--ytmusic-menu-item-hover-background-color);
 }
